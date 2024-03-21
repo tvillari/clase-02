@@ -1,0 +1,21 @@
+.grid-wrapper {
+  height: 100vh;
+  background-color: beige;
+  position: relative;
+  padding-left: 200px;
+}
+.sidenav-container {
+  height: 100vh;
+  background-color: bisque;
+  width: 200px;
+  position: absolute;
+  top: 82px;
+  left: 0;
+}
+.page {
+  background-color: azure;
+  height: 100vh;
+}
+.toolbar-container {
+  height: 60px;
+}
